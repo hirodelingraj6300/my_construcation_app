@@ -12,7 +12,7 @@ html, body { scroll-behavior: smooth; }
   min-height: 70vh;
   background:
     linear-gradient(0deg, rgba(0,0,0,.55), rgba(0,0,0,.35)),
-    url("img/hero_bigpic.jpg") center/cover no-repeat;
+    url("/img/hero_bigpic.jpg") center/cover no-repeat;
 }
 .hero-title{ text-shadow: 0 6px 30px rgba(0,0,0,.45); }
 
