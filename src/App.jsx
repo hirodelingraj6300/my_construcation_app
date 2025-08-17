@@ -1,6 +1,6 @@
 import MainLayout from "./Pages/MainLayout.jsx";
 import "./App.css";
-import "bootstrap/dist/css/bootstrap.min.css";
+import React from "react";
 
 
  function App() {
